@@ -1,0 +1,22 @@
+{
+  "ownerNumber": "6287885738763@s.whatsapp.net",
+  "ownerName": "Faril",
+  "botName": "Faril Botz",
+  "footer": "Support By skysufers.xyz",
+  "youtube": "https://youtube.com/@Gabut Yete",
+  "packname": "Created By Faril Botz",
+  "author": "@faril botz",
+  "donasi": {
+    "dana": "6287885738763",
+    "gopay": "6287885738763"
+  },
+  "sessionName": "session",
+  "pathimg": "./media/minato.jpg",
+  "lolkey": "SadTeams",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+    "prem": 35,
+    "user": 15
+  }
+}
